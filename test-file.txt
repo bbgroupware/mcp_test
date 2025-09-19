@@ -1,0 +1,21 @@
+# MCP Test Repository
+
+이것은 MCP(Model Context Protocol) 테스트를 위한 파일입니다.
+
+## 생성 정보
+- 생성일: 2025-09-19
+- 생성자: AI Assistant
+- 목적: MCP 기능 테스트
+
+## 테스트 내용
+1. 파일 생성 테스트
+2. GitHub API 연동 테스트
+3. MCP 도구 동작 확인
+
+## 추가 정보
+- 레포지토리: bbgroupware/mcp_test
+- 브랜치: main
+- 상태: 테스트 완료
+
+---
+생성 시간: 2025-09-19 14:56:19 KST
